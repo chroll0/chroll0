@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Saba+Antadze;Frontend+Developer;Fullstack+Engineer;Building+Scalable+Web+Apps" />
+# 👨‍💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Saba+Antadze;Fullstack+Developer;Building+Scalable+Web+Applications;System+Architecture+%26+Cloud+Engineer" />
 
 </div>
 
@@ -19,29 +19,37 @@
 
 ## 🚀 Tech Stack
 
-### 💻 Core
+### 💻 Core (Frontend + Backend)
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,python" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,python" />
 </p>
 
-### 🎨 UI / Styling
+---
+
+### 🗄 Database & Data Layer
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,materialui" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase,prisma" />
 </p>
 
-### 🗄 Database
+---
+
+### ☁ Cloud & DevOps
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase" />
+<img src="https://skillicons.dev/icons?i=docker,vercel,netlify,githubactions,aws,linux" />
 </p>
 
-### 🚀 DevOps & Deployment
+---
+
+### 🔐 Auth / API / Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,vercel,netlify,githubactions,linux" />
+<img src="https://skillicons.dev/icons?i=graphql,restapi,jwt,git,github,redis" />
 </p>
 
-### 🔧 Tools
+---
+
+### 🎨 UI / Design
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,figma,photoshop,vscode" />
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,figma,photoshop" />
 </p>
 
 ---
