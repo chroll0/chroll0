@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Saba+Antadze;Fullstack+Developer;Building+Scalable+Web+Applications;System+Architecture+%26+Cloud+Engineer" />
+# 👨‍💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Greetings+I'm+Saba+Antadze;Fullstack+Developer;Building+Scalable+Web+Applications;System+Architecture+and+Cloud+Engineer" />
 
 </div>
 
@@ -91,3 +91,4 @@
 <img src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
 
 </div>
+
