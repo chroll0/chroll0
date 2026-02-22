@@ -1,5 +1,5 @@
 <h1 align="center">👋 Greetings, I'm Saba Antadze</h1>
-<h3 align="center">Frontend Developer | Georgia 🇬🇪</h3>
+<h3 align="center">Frontend Developer | Fullstack Enthusiast | Georgia 🇬🇪</h3>
 
 <br/>
 
@@ -13,10 +13,31 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack & Tools
 
+### 💻 Core Technologies
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap,git,github,figma,firebase,mongodb,photoshop" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,python" />
+</p>
+
+### 🎨 Styling & UI
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,sass" />
+</p>
+
+### 🗄 Database & Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase" />
+</p>
+
+### 🚀 DevOps & Deployment
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,vercel,netlify,githubactions,linux" />
+</p>
+
+### 🔧 Tools & Design
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,figma,photoshop,vscode" />
 </p>
 
 ---
@@ -49,7 +70,7 @@ src="https://github-readme-stats.vercel.app/api?username=chroll0&show_icons=true
 
 <br/>
 
-### 🔥 GitHub Streak
+### 🔥 Contribution Streak
 
 <img 
 src="https://streak-stats.demolab.com?user=chroll0&theme=nightowl&hide_border=true&background=001e28&cache_seconds=300&type=png"
