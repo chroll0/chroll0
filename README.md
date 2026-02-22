@@ -1,71 +1,72 @@
-<h1 align="center">Greetings 👋, I'm Saba Antadze</h1>
-<h3 align="center">Front End Developer From Georgia</h3>
+<h1 align="center">👋 Greetings, I'm Saba Antadze</h1>
+<h3 align="center">Frontend Developer | Georgia 🇬🇪</h3>
+
 <br/>
 
-📫 Email: sabantadze@gmail.com
-<br/>
-ℹ️ Company: https://www.antsoft.info
-<br/>
-👨‍💻 Portfolio: https://saba-antadze-3d-portfolio.netlify.app
-<br/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/saba-antadze-296966264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saba antadze" height="30" width="40" /></a>
-<a href="https://fb.com/sabaantadzesabaantadze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saba antadze" height="30" width="40" /></a>
+<div align="center">
+
+📫 **Email:** sabantadze@gmail.com  
+🏢 **Company:** https://www.antsoft.info  
+🌐 **Portfolio:** https://saba-antadze-3d-portfolio.netlify.app  
+
+</div>
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap,git,github,figma,firebase,mongodb,photoshop" />
 </p>
-<img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Coding" width="450" />
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=html" alt="html" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=css" alt="css" />
-    </a>
-    <a href="https://www.w3schools.com/javascript/" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" />
-    </a>
-    <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=react" alt="react" />
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" />
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=git" alt="git" />
-    </a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=github" alt="github" />
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=figma" alt="figma" />
-    </a>
-    <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" />
-    </a>
-</p>
+
+---
+
+## 🔥 GitHub Performance
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 📊 Languages
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=chroll0&layout=donut&theme=nightowl&bg_color=001e28&hide_border=true&cache_seconds=300"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+### 📈 Stats
+<img 
+src="https://github-readme-stats.vercel.app/api?username=chroll0&show_icons=true&theme=nightowl&bg_color=001e28&hide_border=true&cache_seconds=300"
+/>
+
+</td>
+</tr>
+</table>
+
 <br/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chroll0&layout=pie&theme=nightowl&bg_color=001e28&hide_border=true&cache_seconds=300)](https://github.com/chroll0/github-readme-stats)
+### 🔥 GitHub Streak
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chroll0&show_icons=true&theme=nightowl&bg_color=001e28&hide_border=true&cache_seconds=300)
+<img 
+src="https://streak-stats.demolab.com?user=chroll0&theme=nightowl&hide_border=true&background=001e28&cache_seconds=300&type=png"
+/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=chroll0&theme=nightowl&hide_border=true&background=001e28&cache_seconds=300&type=png)](https://git.io/streak-stats)
+</div>
 
+---
 
+## 🌍 Connect With Me
 
+<p align="center">
+<a href="https://linkedin.com/in/saba-antadze-296966264" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://facebook.com/sabaantadzesabaantadze" target="_blank">
+<img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+</p>
