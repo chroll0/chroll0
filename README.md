@@ -1,31 +1,35 @@
-<h1 align="center">👋 Greetings, I'm Saba Antadze</h1>
-<h3 align="center">Frontend Developer | Fullstack Enthusiast | Georgia 🇬🇪</h3>
-
-<br/>
-
 <div align="center">
 
-📫 **Email:** sabantadze@gmail.com  
-🏢 **Company:** https://www.antsoft.info  
-🌐 **Portfolio:** https://saba-antadze-3d-portfolio.netlify.app  
+# 👨‍💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Saba+Antadze;Frontend+Developer;Fullstack+Engineer;Building+Scalable+Web+Apps" />
 
 </div>
 
 ---
 
-## 🚀 Tech Stack & Tools
+<div align="center">
 
-### 💻 Core Technologies
+📍 Georgia 🇬🇪  
+📫 Email: sabantadze@gmail.com  
+🏢 Company: https://www.antsoft.info  
+🌐 Portfolio: https://saba-antadze-3d-portfolio.netlify.app  
+
+</div>
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Core
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,python" />
 </p>
 
-### 🎨 Styling & UI
+### 🎨 UI / Styling
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,sass" />
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,materialui" />
 </p>
 
-### 🗄 Database & Backend
+### 🗄 Database
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase" />
 </p>
@@ -35,59 +39,47 @@
 <img src="https://skillicons.dev/icons?i=docker,vercel,netlify,githubactions,linux" />
 </p>
 
-### 🔧 Tools & Design
+### 🔧 Tools
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,figma,photoshop,vscode" />
 </p>
 
 ---
 
-## 🔥 GitHub Performance
+## 🔥 GitHub Analytics
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=chroll0&show_icons=true&theme=nightowl&bg_color=001e28&hide_border=true&cache_seconds=300" width="48%" />
 
-### 📊 Languages
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=chroll0&layout=donut&theme=nightowl&bg_color=001e28&hide_border=true&cache_seconds=300"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chroll0&layout=donut&theme=nightowl&bg_color=001e28&hide_border=true&cache_seconds=300" width="48%" />
 
-</td>
-
-<td width="50%" align="center">
-
-### 📈 Stats
-<img 
-src="https://github-readme-stats.vercel.app/api?username=chroll0&show_icons=true&theme=nightowl&bg_color=001e28&hide_border=true&cache_seconds=300"
-/>
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
-### 🔥 Contribution Streak
+<div align="center">
 
-<img 
-src="https://streak-stats.demolab.com?user=chroll0&theme=nightowl&hide_border=true&background=001e28&cache_seconds=300&type=png"
-/>
+<img src="https://streak-stats.demolab.com?user=chroll0&theme=nightowl&hide_border=true&background=001e28&cache_seconds=300&type=png" />
 
 </div>
 
 ---
 
-## 🌍 Connect With Me
+## 📊 Activity Graph
 
-<p align="center">
-<a href="https://linkedin.com/in/saba-antadze-296966264" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+<div align="center">
 
-<a href="https://facebook.com/sabaantadzesabaantadze" target="_blank">
-<img src="https://skillicons.dev/icons?i=facebook" />
-</a>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chroll0&theme=react-dark&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+
+</div>
