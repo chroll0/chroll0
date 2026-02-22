@@ -4,7 +4,7 @@
 
 📫 Email: sabantadze@gmail.com
 <br/>
-ℹ️ Company https://www.antsoft.info
+ℹ️ Company: https://www.antsoft.info
 <br/>
 👨‍💻 Portfolio: https://saba-antadze-3d-portfolio.netlify.app
 <br/>
@@ -61,7 +61,11 @@
 </p>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chroll0&layout=pie&bg_color=001e28&theme=nightowl&hide_border=true)](https://github.com/chroll0/github-readme-stats)                                ![chroll0's GitHub stats](https://github-readme-stats.vercel.app/api?username=chroll0&show_icons=true&bg_color=001e28&theme=nightowl&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=chroll0&theme=nightowl&hide_border=true&type=png)](https://git.io/streak-stats) 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chroll0&layout=pie&theme=nightowl&bg_color=001e28&hide_border=true&cache_seconds=300)](https://github.com/chroll0/github-readme-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chroll0&show_icons=true&theme=nightowl&bg_color=001e28&hide_border=true&cache_seconds=300)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=chroll0&theme=nightowl&hide_border=true&background=001e28&cache_seconds=300&type=png)](https://git.io/streak-stats)
+
 
 
