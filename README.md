@@ -1,9 +1,5 @@
 <div align="center">
 
-<h1>
-👨‍💻
-</h1>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Greetings!+I'm+Saba+Antadze;Fullstack+Developer;Building+Scalable+Web+Applications;System+Architecture+Engineer" />
 
 </div>
@@ -54,9 +50,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chroll0&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=chroll0&show_icons=true&theme=dark" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chroll0&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chroll0&layout=compact&theme=dark" width="48%" />
 
 </div>
 
@@ -70,16 +66,6 @@
 
 ---
 
-## 📊 Contributions (Last Year)
-
-<div align="center">
-
-<img src="https://github-contribution-grid.vercel.app/api?username=chroll0&theme=github-dark&hide_border=true" width="100%" />
-
-</div>
-
----
-
 ## 👀 Profile Views
 
 <div align="center">
@@ -87,3 +73,4 @@
 <img src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20Views&color=58a6ff&style=for-the-badge" />
 
 </div>
+
