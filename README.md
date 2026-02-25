@@ -1,6 +1,9 @@
-<div align="center">
+<div align="center" style="margin-bottom:30px;">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Greetings!+I'm+Saba+Antadze;Fullstack+Developer;Building+Scalable+Web+Applications;System+Architecture+Engineer" />
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Greetings!+I'm+Saba+Antadze;Fullstack+Developer;Building+Scalable+Web+Applications;System+Architecture+Engineer" 
+  style="max-width:100%;"
+/>
 
 </div>
 
@@ -48,18 +51,16 @@
 
 ## GitHub Analytics
 
-<div align="center">
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
 
 <img 
   src="https://g-r-s.vercel.app/api?username=chroll0&show_icons=true&theme=dark" 
-  width="48%" 
-  style="height:230px; object-fit:contain;"
+  style="height:230px; width:auto;"
 />
 
 <img 
   src="https://g-r-s.vercel.app/api/top-langs/?username=chroll0&layout=compact&theme=dark" 
-  width="48%" 
-  style="height:230px; object-fit:contain;"
+  style="height:230px; width:auto;"
 />
 
 </div>
@@ -81,6 +82,7 @@
 <img src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20Views&color=58a6ff&style=for-the-badge" />
 
 </div>
+
 
 
 
