@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Greetings!+I'm+Saba+Antadze;Fullstack+Developer;Building+Scalable+Web+Applications;System+Architecture+and+Cloud+Engineer" />
+# 👨‍💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Greetings!+I'm+Saba+Antadze;Fullstack+Developer;Building+Scalable+Web+Applications;System+Architecture+Engineer" />
 
 </div>
 
@@ -21,46 +21,38 @@
 
 ### 💻 Core (Frontend + Backend)
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,python" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,express,python" />
 </p>
-
----
 
 ### 🗄 Database & Data Layer
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase,prisma" />
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,prisma,mysql,sqlite,firebase" />
 </p>
-
----
 
 ### ☁ Cloud & DevOps
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,vercel,netlify,githubactions,aws,linux" />
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,githubactions,linux" />
 </p>
 
----
-
-### 🔐 Auth / API / Tools
+### 🔐 API / Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=graphql,restapi,jwt,git,github,redis" />
+<img src="https://skillicons.dev/icons?i=graphql,postman,git,github,redis" />
 </p>
-
----
 
 ### 🎨 UI / Design
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,figma,photoshop" />
+<img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap,figma,photoshop" />
 </p>
 
 ---
 
-## 🔥 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chroll0&show_icons=true&theme=nightowl&bg_color=001e28&hide_border=true&cache_seconds=300" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=chroll0&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&bg_color=001e28&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chroll0&layout=donut&theme=nightowl&bg_color=001e28&hide_border=true&cache_seconds=300" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chroll0&layout=donut&theme=nightowl&bg_color=001e28&hide_border=true" width="48%" />
 
 </div>
 
@@ -68,17 +60,17 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=chroll0&theme=nightowl&hide_border=true&background=001e28&cache_seconds=300&type=png" />
+<img src="https://streak-stats.demolab.com?user=chroll0&theme=nightowl&hide_border=true&background=001e28" />
 
 </div>
 
 ---
 
-## 📊 Activity Graph
+## 📊 Contributions (Last Year)
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chroll0&theme=react-dark&hide_border=true" width="100%" />
+<img src="https://ghchart.rshah.org/00F7FF/chroll0" width="100%" />
 
 </div>
 
@@ -91,6 +83,3 @@
 <img src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
 
 </div>
-
-
-
