@@ -1,8 +1,10 @@
 <div align="center">
 
 <h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Greetings!+I'm+Saba+Antadze;Fullstack+Developer;Building+Scalable+Web+Applications;System+Architecture+Engineer" />
+👨‍💻
 </h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Greetings!+I'm+Saba+Antadze;Fullstack+Developer;Building+Scalable+Web+Applications;System+Architecture+Engineer" />
 
 </div>
 
@@ -21,8 +23,29 @@
 
 ## 🚀 Tech Stack
 
+### 💻 Core (Frontend + Backend)
 <p align="center">
-<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,express,python,postgresql,mongodb,prisma,docker,aws,vercel,graphql,redis,tailwind,figma" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,express,python" />
+</p>
+
+### 🗄 Database & Data Layer
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,prisma,mysql,sqlite,firebase" />
+</p>
+
+### ☁ Cloud & DevOps
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,githubactions,linux" />
+</p>
+
+### 🔐 API / Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=graphql,postman,git,github,redis" />
+</p>
+
+### 🎨 UI / Design
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap,figma,photoshop" />
 </p>
 
 ---
