@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### 💻 Core (Frontend + Backend)
 <p align="center">
@@ -46,13 +46,13 @@
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chroll0&show_icons=true&theme=dark" width="48%" />
+<img src="https://g-r-s.vercel.app/api?username=chroll0&show_icons=true&theme=dark" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chroll0&layout=compact&theme=dark" width="48%" />
+<img src="https://g-r-s.vercel.app/api/top-langs/?username=chroll0&layout=compact&theme=dark" width="48%" />
 
 </div>
 
@@ -66,11 +66,12 @@
 
 ---
 
-## 👀 Profile Views
+## Profile Views
 
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20Views&color=58a6ff&style=for-the-badge" />
 
 </div>
+
 
