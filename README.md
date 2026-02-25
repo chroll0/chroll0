@@ -12,37 +12,12 @@
 <br/>
 
 <!-- Info -->
-<div align="center" style="
-  display:inline-flex;
-  justify-content:center;
-  gap:60px;
-  flex-wrap:nowrap;
-  color:#c9d1d9;
-  font-size:16px;
-  margin-bottom:40px;
-">
-
-  <div>
-    📫 Email:
-    <a href="mailto:sabantadze@gmail.com" style="color:#58a6ff; text-decoration:none;">
-      sabantadze@gmail.com
-    </a>
-  </div>
-
-  <div>
-    🏢 Company:
-    <a href="https://www.antsoft.info" target="_blank" style="color:#58a6ff; text-decoration:none;">
-      AntSoft
-    </a>
-  </div>
-
-  <div>
-    🌐 Portfolio:
-    <a href="https://saba-antadze-3d-portfolio.netlify.app" target="_blank" style="color:#58a6ff; text-decoration:none;">
-      3D Portfolio
-    </a>
-  </div>
-
+<div align="center" style="color:#c9d1d9; font-size:16px; margin-bottom:40px;">
+📫 Email: <a href="mailto:sabantadze@gmail.com" style="color:#58a6ff; text-decoration:none;">sabantadze@gmail.com</a>
+&nbsp;&nbsp; | &nbsp;&nbsp;
+🏢 Company: <a href="https://www.antsoft.info" target="_blank" style="color:#58a6ff; text-decoration:none;">AntSoft</a>
+&nbsp;&nbsp; | &nbsp;&nbsp;
+🌐 Portfolio: <a href="https://saba-antadze-3d-portfolio.netlify.app" target="_blank" style="color:#58a6ff; text-decoration:none;">3D Portfolio</a>
 </div>
 
 ---
@@ -104,5 +79,6 @@
 </div>
 
 </div>
+
 
 
