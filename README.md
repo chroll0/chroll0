@@ -50,9 +50,17 @@
 
 <div align="center">
 
-<img src="https://g-r-s.vercel.app/api?username=chroll0&show_icons=true&theme=dark" width="48%" />
+<img 
+  src="https://g-r-s.vercel.app/api?username=chroll0&show_icons=true&theme=dark" 
+  width="48%" 
+  style="height:230px; object-fit:contain;"
+/>
 
-<img src="https://g-r-s.vercel.app/api/top-langs/?username=chroll0&layout=compact&theme=dark" width="48%" />
+<img 
+  src="https://g-r-s.vercel.app/api/top-langs/?username=chroll0&layout=compact&theme=dark" 
+  width="48%" 
+  style="height:230px; object-fit:contain;"
+/>
 
 </div>
 
@@ -73,5 +81,6 @@
 <img src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20Views&color=58a6ff&style=for-the-badge" />
 
 </div>
+
 
 
