@@ -9,6 +9,8 @@
   />
 </div>
 
+</br>
+
 <!-- Info -->
 <div align="center" style="color:#c9d1d9; font-size:16px; line-height:1.8; margin-bottom:40px;">
 📫 Email: <a href="mailto:sabantadze@gmail.com" style="color:#58a6ff;">sabantadze@gmail.com</a> <br/>
@@ -69,4 +71,5 @@
 </div>
 
 </div>
+
 
