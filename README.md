@@ -1,5 +1,4 @@
 <div style="background-color:#0d1117; padding:40px; border-radius:16px;">
-📍 Georgia 🇬🇪 <br/>
 
 <!-- Header -->
 <div align="center" style="margin-bottom:30px;">
@@ -9,10 +8,9 @@
   />
 </div>
 
-</br>
-
 <!-- Info -->
 <div align="center" style="color:#c9d1d9; font-size:16px; line-height:1.8; margin-bottom:40px;">
+📍 Georgia 🇬🇪 <br/>
 📫 Email: <a href="mailto:sabantadze@gmail.com" style="color:#58a6ff;">sabantadze@gmail.com</a> <br/>
 🏢 Company: <a href="https://www.antsoft.info" target="_blank" style="color:#58a6ff;">AntSoft</a> <br/>
 🌐 Portfolio: <a href="https://saba-antadze-3d-portfolio.netlify.app" target="_blank" style="color:#58a6ff;">3D Portfolio</a>
@@ -20,7 +18,7 @@
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 
 ### 💻 Core
 <p align="center">
@@ -49,7 +47,7 @@
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
   <img src="https://g-r-s.vercel.app/api?username=chroll0&show_icons=true&theme=dark" style="height:230px;" />
@@ -64,12 +62,10 @@
 
 ---
 
-## Views
+## 👀 Profile Views
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20Views&color=58a6ff&style=for-the-badge" />
 </div>
 
 </div>
-
-
