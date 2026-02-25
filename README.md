@@ -22,6 +22,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=chroll0&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&hide_border=true" />
+</div>
+
 ## Tech Stack
 
 ### 💻 Core
@@ -66,10 +70,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=chroll0&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&hide_border=true" />
-</div>
-
 ---
 
 ## Views
@@ -79,6 +79,7 @@
 </div>
 
 </div>
+
 
 
 
