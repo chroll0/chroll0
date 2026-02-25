@@ -50,9 +50,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chroll0&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&bg_color=001e28&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chroll0&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chroll0&layout=donut&theme=nightowl&bg_color=001e28&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chroll0&layout=compact&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9&hide_border=true" width="48%" />
 
 </div>
 
@@ -60,7 +60,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=chroll0&theme=nightowl&hide_border=true&background=001e28" />
+<img src="https://streak-stats.demolab.com?user=chroll0&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&hide_border=true" />
 
 </div>
 
@@ -83,3 +83,4 @@
 <img src="https://komarev.com/ghpvc/?username=chroll0&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
 
 </div>
+
