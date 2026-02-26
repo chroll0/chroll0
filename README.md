@@ -2,12 +2,7 @@
 📍 Georgia 🇬🇪 <br/>
 
 <!-- Header -->
-<div align="center" style="margin-bottom:30px;">
-  <img 
-    src="https://streak-stats.demolab.com?user=chroll0&background=0d1117&ring=ffffff&fire=58a6ff&currStreakLabel=ffffff&sideNums=58a6ff&sideLabels=ffffff&dates=8b949e&hide_border=true" 
-    style="max-width:100%;" 
-  />
-</div>
+<div align="center" style="margin-bottom:30px;"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&bcenter=true&vCenter=true&width=700&lines=Greetings!+I'm+Saba+Antadze;Fullstack+Developer;Building+Scalable+Web+Applications;System+Architecture+Engineer" style="max-width:100%;" /> </div>
 
 <br/>
 
@@ -79,6 +74,7 @@
 </div>
 
 </div>
+
 
 
 
