@@ -4,7 +4,16 @@
 <!-- Header -->
 <div align="center" style="margin-bottom:30px;">
   <img 
-    src="https://streak-stats.demolab.com?user=chroll0&background=0d1117&ring=ffffff&fire=58a6ff&currStreakLabel=ffffff&sideNums=58a6ff&sideLabels=ffffff&dates=8b949e&hide_border=true" 
+    src="https://readme-typing-svg.demolab.com?
+font=Fira+Code&
+weight=700&
+size=28&
+pause=1000&
+color=00F7FF&
+center=true&
+vCenter=true&
+width=500&
+lines=Greetings!+I'm+Saba+Antadze;Fullstack+Developer;Building+Scalable+Web+Applications;System+Architecture+Engineer" 
     style="max-width:100%;" 
   />
 </div>
@@ -23,7 +32,18 @@
 ---
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=chroll0" />
+  <img 
+    src="https://streak-stats.demolab.com?
+user=chroll0&
+background=0d1117&
+ring=00f7ff&
+fire=ff6b6b&
+currStreakLabel=ffffff&
+sideNums=ffffff&
+sideLabels=8b949e&
+dates=4f5b66&
+hide_border=true" 
+  />
 </div>
 
 ## Tech Stack
@@ -79,6 +99,7 @@
 </div>
 
 </div>
+
 
 
 
