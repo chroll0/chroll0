@@ -2,12 +2,12 @@
 📍 Georgia 🇬🇪 <br/>
 
 <!-- Header -->
-<div style="text-align:center; margin-bottom:30px;">
+<p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Greetings!+I'm+Saba+Antadze;Fullstack+Developer;Building+Scalable+Web+Applications;System+Architecture+Engineer"
-    style="max-width:100%;"
+    width="700"
   />
-</div>
+</p>
 <br/>
 
 <!-- Info -->
@@ -78,6 +78,7 @@
 </div>
 
 </div>
+
 
 
 
