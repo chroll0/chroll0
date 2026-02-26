@@ -4,7 +4,7 @@
 <!-- Header -->
 <div align="center" style="margin-bottom:30px;">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=700&lines=Greetings!+I'm+Saba+Antadze;Fullstack+Developer;Building+Scalable+Web+Applications;System+Architecture+Engineer" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&bcenter=true&vCenter=true&width=700&lines=Greetings!+I'm+Saba+Antadze;Fullstack+Developer;Building+Scalable+Web+Applications;System+Architecture+Engineer" 
     style="max-width:100%;" 
   />
 </div>
@@ -23,7 +23,16 @@
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=chroll0&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?
+user=chroll0&
+background=0d1117&
+ring=ffffff&
+fire=58a6ff&
+currStreakLabel=ffffff&
+sideNums=58a6ff&
+sideLabels=ffffff&
+dates=8b949e&
+hide_border=true" />
 </div>
 
 ## Tech Stack
@@ -79,6 +88,7 @@
 </div>
 
 </div>
+
 
 
 
