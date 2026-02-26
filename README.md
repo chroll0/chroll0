@@ -23,7 +23,7 @@
 
 <div align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=chroll0&theme=dark&background=000000&border=000000&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF"
+    src="https://streak-stats.demolab.com?user=chroll0&theme=dark&background=transparent&border=000000&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF"
   />
 </div>
 
@@ -80,6 +80,7 @@
 </div>
 
 </div>
+
 
 
 
