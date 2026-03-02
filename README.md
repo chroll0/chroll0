@@ -1,5 +1,6 @@
 <div style="background-color:#0d1117; padding:40px; border-radius:16px;">
-📍 Georgia 🇬🇪 <br/>
+📍 Georgia 🇬🇪 
+<br/>
 
 <!-- Header -->
 <p align="center">
