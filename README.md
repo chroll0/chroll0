@@ -6,7 +6,7 @@
 <!-- Header -->
 <p align="center">
   <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00f7ff&center=true&vCenter=true&width=750&lines=Greetings!+I'm+Saba+Antadze;Full-Stack+Software+Engineer;Building+Scalable+Web+Applications;Crafting+Clean+and+Maintainable+Code"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00f7ff&center=true&vCenter=true&width=750&lines=Greetings!+I'm+Saba+Antadze;Full-Stack+Software+Engineer;Building+Scalable+Web+Applications;Clean+and+Maintainable+Code"
   width="750"
   />
 </p>
@@ -82,6 +82,7 @@
 </div>
 
 </div>
+
 
 
 
